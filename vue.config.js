@@ -5,6 +5,6 @@ module.exports = defineConfig({
 module.exports = {
   publicPath: './'
 }
-  module.exports = {
+module.exports = {
     lintOnSave: false
-  }
+}
